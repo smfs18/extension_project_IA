@@ -21,8 +21,8 @@ Passo a Passo:
 2. Verificar se tem observações ou excessões no processo, por exemplo, a questão cita caracteres especiais e pontuação.
 3. Após entender, pesquisei como poderia ler uma arquivo com o  python e a partir disso apliquei os conceitos.
 4. Pensei em uma estrutura de dados chamada Tabela Hash, não apliquei diretamente a estrutura, mas o conceito sim. Basicamente, criei uma lista de caracteres(letras maiúsculas, minúsculas, números e espaço em branco) e criei uma variável que armazenava em dicionário (chave e valor), a ordem foi direta não fiz a função em específica, praticamente a letra "a" recebia o valor "1", ou seja, chave = "a", valor = "1".
-5. Mas se a função é capaz de gerar um número para o caracter, é possível tamnbém fazer o processo reverso e é isso que o matriz_convertida faz no script. Utiliza o mesmo conceito.
-6. No final, peço para o script criar dois documentos comas as matrizes com n linhas e 20 colunas. (Só consegui fazer o arquivo .csv com 20 colunas)
+5. Mas se a função é capaz de gerar um número para o caracter, é possível tamnbém fazer o processo reverso e é isso que a matriz_convertida faz no script. Utiliza o mesmo conceito.
+6. No final, peço para o script criar dois documentos com as matrizes com n linhas e 20 colunas. (Só consegui fazer o arquivo .csv com 20 colunas)
 7. Praticar as boas práticas de programação também foi essencial para deixar organizado e modularizado.
 
 Dificuldades: Entender o problema no início e gerar a solução.
